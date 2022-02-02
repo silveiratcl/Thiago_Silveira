@@ -1,14 +1,3 @@
-# Thiago Silveira
-
-I am a biologist and researcher in the marine environment. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
-
-Studing HTML, CSS and Javascript for a future deepening in ReactJs and Native Native. Also interested in learn Node.js, PostgresSQL and Python. I've been studying the Leafleat.js library for data spatialization.
-
-I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, surfing, skateboarding and the beach are good for me. 
-
-"Without knowledge action is useless and knowledge without action is futile. "
-- Abu Bakr 
-
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
  
 ### Hi there 👋, I'm Christina Kopecky. I'm a web developer and technical writer. Welcome to my gh page! <br>
