@@ -1,10 +1,10 @@
-# Thiago_Silveira
+# Thiago Silveira
 
-Sou biólogo e pesquisador na área marinha. Entusiasta de modelagem estatística e espacialização da informação. Busco aprender novas tecnologias que me possibilitem criar produtos e soluções para área ambiental.
+I am a biologist and researcher in the marine environment. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
 
-Estudo HTML, CSS e Javascript para um futuro aprofundamento em ReactJs e Native Native. Tenho interesse em me aprofundar Node.js, PostgresSQL e Python. Tenho estudado a biblioteca Leafleat.js para espacialização de dados.
+Studing HTML, CSS and Javascript for a future deepening in ReactJs and Native Native. Also interested in learn Node.js, PostgresSQL and Python. I've been studying the Leafleat.js library for data spatialization.
 
-Moro em Florianópolis e sou mergulhador. Pai do Pedro (2017). Família, Surfe, skate e praia me fazem bem.
+I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, surfing, skateboarding and the beach are good for me. 
 
 "Without knowledge action is useless and knowledge without action is futile. "
 - Abu Bakr 
