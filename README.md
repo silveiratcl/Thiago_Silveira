@@ -10,3 +10,12 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
 
  Abu Bakr
 
+##
+ 
+<div align="center">
+  <a href="https://github.com/deboraquintal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboraquintal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraquintal&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
+##
