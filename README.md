@@ -24,7 +24,9 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
   <h3>Languages and Tools</h3>
   <div>
     <h3>Experienced</h3>
+   <a src="https://cran.r-project.org/"
     <img src="https://img.shields.io/badge/language-0077B5?style=for-the-badge&logo=r&logoColor=white" />
+    ></a>
   </div>
  
   <div>
@@ -39,5 +41,5 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
     <a target="_blank" href="mailto:silveira.tcl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
     <a target="_blank" href="https://www.linkedin.com/in/thiagoclsilveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
     <a target="_blank" href="https://twitter.com/silveiratcl"><img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
-    <a target="_blank" href="https://orcid.org/0000-0002-3163-479X"><img src="https://img.shields.io/badge/Orcid-0077B5?style=for-the-badge&logo=orcid&logoColor=green" /><a/>
+    <a target="_blank" href="https://orcid.org/0000-0002-3163-479X"><img src="https://img.shields.io/badge/Orcid-339933?style=for-the-badge&logo=orcid&logoColor=white" /><a/>
 </div>
