@@ -24,7 +24,7 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
   <h3>Languages and Tools</h3>
   <div>
     <h3>Experienced</h3>
-   <a href="https://cran.r-project.org/">
+   <a href="https://cran.r-project.org/" target="blank">
        <img src="https://img.shields.io/badge/language-0077B5?style=for-the-badge&logo=r&logoColor=white" />
    </a>
 
