@@ -2,7 +2,7 @@
  
 I am a biologist, marine researcher and developer. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
 
-Studing HTML, CSS and Javascript for a future deepening in ReactJs and React Native. Also interested in learn Node.js, PostgresSQL and Python. I've been studying the Leafleat.js library for data spatialization and Django framework.
+Studing HTML, CSS and Javascript. Also interested in learn Python and PostgresSQL. I've been studying the Leafleat.js library for data spatialization and Django framework.
 
 I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, surfing, and skateboarding makes me happy.
 
