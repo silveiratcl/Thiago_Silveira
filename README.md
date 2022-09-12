@@ -24,28 +24,28 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
   <h3>Languages and Tools</h3>
   <div>
    <a href="https://cran.r-project.org/" target="blank">
-       <img src="https://img.shields.io/badge/language-0077B5?style=for-the-badge&logo=r&logoColor=white" />
-
+       <img src="https://img.shields.io/badge/language-FFFFFF?style=for-the-badge&logo=r&logoColor=0077B5" />
+   </a>
     <a href="https://github.com/silveiratcl/" target="blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=F7DF1E" />
    </a>
    <a href="https://github.com/silveiratcl/" target="blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=F7DF1E" />
    </a> 
    <a href="https://github.com/silveiratcl/" target="blank">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    </a>
    <a href="https://github.com/silveiratcl/" target="blank"> 
-        <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/Python-0c4b33?style=for-the-badge&logo=python&logoColor=F7DF1E" />
    </a>
    </a>
-   <a href="https://github.com/silveiratcl/" target="blank"> 
+   <a href="https://www.djangoproject.com/" target="blank"> 
         <img src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=python&logoColor=FFFFFF" />
    </a>
-  <a href="https://github.com/silveiratcl/" target="blank"> 
+  <a href="https://www.django-rest-framework.org/" target="blank"> 
         <img src="https://img.shields.io/badge/DRF-0c4b33?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <a href="https://github.com/silveiratcl/" target="blank"> 
-        <img src="https://img.shields.io/badge/JAVA-ffffff?style=for-the-badge&logo=java&logoColor=F9F9F9" />      
+  <a href="https://www.java.com/en/" target="blank"> 
+        <img src="https://img.shields.io/badge/JAVA-3A75B0?style=for-the-badge&logo=Java&logoColor=FFFFFF" />      
    </a>
   </div>
 
