@@ -12,7 +12,7 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
 
 ##
 
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=silveiratcl&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=silveiratcl&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
