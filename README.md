@@ -40,9 +40,6 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
    </a>
   <a href="https://www.django-rest-framework.org/" target="blank"> 
         <img src="https://img.shields.io/badge/DRF-0c4b33?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  <a href="https://www.java.com/en/" target="blank"> 
-        <img src="https://img.shields.io/badge/JAVA-3A75B0?style=for-the-badge&logo=Java&logoColor=FFFFFF" />      
-   </a>
   </div>
 
 <div>
