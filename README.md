@@ -11,12 +11,6 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
  Abu Bakr
 
 ##
-<div>
-  <div>
- 
-[![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=silveiratcl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
- </div>
 
  <div> 
 <p align="center">
