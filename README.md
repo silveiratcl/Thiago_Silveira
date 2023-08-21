@@ -1,6 +1,6 @@
 ### Thiago Silveira
 
-<img src="https://github.com/silveiratcl/images/blob/main/datascience.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador"> 
+<img src="https://github.com/silveiratcl/images/blob/main/datascience.png" min-width="300px" max-width="400px" width="400px" align="right" alt="Computador"> 
 
 I am a biologist, marine researcher and developer. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
 
