@@ -11,43 +11,25 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
  Abu Bakr
 
 ##
-
+<div>
+  <div>
+ 
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=silveiratcl&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+ </div>
+
+ <div> 
 <p align="center">
 <a href="https://github.com/silveiratcl/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silveiratcl&show_icons=true&layout=compact&theme=dark" />
 </a> 
 </p>
+ </div>
 
-
+</div>
 ##
 
- <div>
-  <h3>Languages and Tools</h3>
-  <div>
-   <a href="https://cran.r-project.org/" target="blank">
-       <img src="https://img.shields.io/badge/language-FFFFFF?style=for-the-badge&logo=r&logoColor=0077B5" />
-   </a>
-    <a href="https://github.com/silveiratcl/" target="blank">
-        <img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=F7DF1E" />
-   </a>
-   <a href="https://github.com/silveiratcl/" target="blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=F7DF1E" />
-   </a> 
-   <a href="https://github.com/silveiratcl/" target="blank">
-        <img src="https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   </a>
-   <a href="https://github.com/silveiratcl/" target="blank"> 
-        <img src="https://img.shields.io/badge/Python-0c4b33?style=for-the-badge&logo=python&logoColor=F7DF1E" />
-   </a>
-   </a>
-   <a href="https://www.djangoproject.com/" target="blank"> 
-        <img src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-   </a>
-  <a href="https://www.django-rest-framework.org/" target="blank"> 
-        <img src="https://img.shields.io/badge/DRF-0c4b33?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-  </div>
+ 
 
 <div>
 
