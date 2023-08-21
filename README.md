@@ -2,6 +2,7 @@
 
 <img src="https://github.com/silveiratcl/images/blob/main/datascience.png" min-width="300px" max-width="600px" width="600px" align="right" alt="Computador"> 
 
+<p align="left">
 I am a biologist, marine researcher and developer. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
 
 Studing HTML, CSS and Javascript. Also interested in learn Python and PostgresSQL. I've been studying the Leafleat.js library for data spatialization and Django framework.
@@ -11,8 +12,8 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
 "Without knowledge action is useless and knowledge without action is futile. "
 
  Abu Bakr
+</p>
 
-##
 
  
 <p align="center">
