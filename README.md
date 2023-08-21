@@ -21,15 +21,12 @@ I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, 
  <div> 
 <p align="center">
 <a href="https://github.com/silveiratcl/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silveiratcl&show_icons=true&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silveiratcl&show_icons=true&layout=compact&theme=dark" />
 </a> 
 </p>
  </div>
 
 </div>
-##
-
- 
 
 <div>
 
