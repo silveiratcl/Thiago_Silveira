@@ -1,9 +1,10 @@
-### Thiago Silveira
+### Hi there
 
-<img src="https://github.com/silveiratcl/images/blob/main/datascience.png" min-width="300px" max-width="600px" width="600px" align="right" alt="Computador"> 
+<img src="https://github.com/silveiratcl/images/blob/main/datascience.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> 
 
 <p align="left">
-I am a biologist, marine researcher and developer. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
+
+ I am a biologist, marine researcher and developer. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
 
 Studing HTML, CSS and Javascript. Also interested in learn Python and PostgresSQL. I've been studying the Leafleat.js library for data spatialization and Django framework.
 
