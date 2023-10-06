@@ -4,15 +4,15 @@
 
 <p align="left">
 
- I am a biologist, marine researcher and developer. Enthusiast of statistical modeling and information spatialization. I seek to learn new technologies that allow me to create products and solutions for the environmental sciences.
+🌊 As a biologist and marine researcher, I dive into the depths of both the natural world and the digital realm. 🌐 I'm passionate about statistical modeling and transforming data into meaningful spatial representations. My journey is fueled by the pursuit of harnessing technology to create innovative solutions for environmental sciences.
 
-Studing HTML, CSS and Javascript. Also interested in learn Python and PostgresSQL. I've been studying the Leafleat.js library for data spatialization and Django framework.
+💻 Currently, I'm immersed in the world of web development, honing my skills in HTML, CSS, and Javascript. My appetite for knowledge doesn't stop there; I'm eager to delve into Python and PostgreSQL to broaden my tech toolkit. Additionally, I'm in the process of mastering Leaflet.js for spatial data visualization and the Django framework for robust web applications.
 
-I live in Florianópolis and I am a SCUBA diver. Pedro's Father (2017). Family, surfing, and skateboarding makes me happy.
+🌴 I call Florianópolis home, where I not only explore the marine depths but also ride the waves on a surfboard and cruise through the streets on a skateboard. Family is my anchor, adventure is my compass, and the ocean is my sanctuary.
 
-"Without knowledge action is useless and knowledge without action is futile. "
+📜 "Without knowledge, action is useless; and knowledge without action is futile." - Abu Bakr
 
- Abu Bakr
+
 </p>
 
 
