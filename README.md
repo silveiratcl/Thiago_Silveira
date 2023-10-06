@@ -6,9 +6,9 @@
 
 🌊 As a biologist and marine researcher, I dive into the depths of both the natural world and the digital realm. 🌐 I'm passionate about statistical modeling and transforming data into meaningful spatial representations. My journey is fueled by the pursuit of harnessing technology to create innovative solutions for environmental sciences.
 
-💻 Currently, I'm immersed in the world of web development, honing my skills in HTML, CSS, and Javascript. My appetite for knowledge doesn't stop there; I'm eager to delve into Python and PostgreSQL to broaden my tech toolkit. Additionally, I'm in the process of mastering Leaflet.js for spatial data visualization and the Django framework for robust web applications.
+💻 Currently, I'm immersed in the world of web development, honing my skills in HTML, CSS, and Javascript. My appetite for knowledge doesn't stop there; I'm eager to delve into Python and DataBases to broaden my tech toolkit. 
 
-🌴 I call Florianópolis home, where I not only explore the marine depths but also ride the waves on a surfboard and cruise through the streets on a skateboard. Family is my anchor, adventure is my compass, and the ocean is my sanctuary.
+🌴 I call Florianópolis home, where I not only explore the marine depths but also ride the waves on a surfboard and still shereding on my skateboard. Family is my anchor, adventure is my compass, and the ocean is my sanctuary.
 
 📜 "Without knowledge, action is useless; and knowledge without action is futile." - Abu Bakr
 
