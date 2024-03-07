@@ -10,7 +10,6 @@
 
 🌴 I call Florianópolis - Brazil my home, where I not only explore this beautyfull Island but also shereding on my surfboard and skateboard. Family is my anchor, adventure is my compass, and the ocean is my therapy.
 
-📜 "Without knowledge, action is useless; and knowledge without action is futile." - Abu Bakr
 
 
 </p>
